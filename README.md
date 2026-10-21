@@ -1,5 +1,24 @@
+
 # 💫 About Me:
-### 🤝 I’m looking to collaborate on<br>- Data-driven EdTech initiatives, cloud architecture implementations, or large-scale project management workflows.<br><br>### 🌱 I’m looking for help with<br>- Advanced data automation frameworks and optimising state-level digital education delivery metrics.<br><br>### ⚡ I’m currently learning<br>- Advanced AWS Cloud Architecture and scaling AI-driven data automation workflows.<br><br>### 💬 Ask me about<br>- Project management, SQL data modelling, vendor coordination, and public sector tech deployments.<br><br>### ⚡ Fun fact<br>- I am currently working on setting up my own company alongside my work in digital education transformation!<br>
+
+### 🤝 I’m looking to collaborate on
+- Data-driven EdTech initiatives, digital transformation projects, cloud architecture, and scalable project management solutions.
+
+### 🌱 I’m looking for help with
+- Advanced data automation frameworks, AI-driven workflows, and optimising digital education delivery through data-driven insights.
+
+### ⚡ I’m currently learning
+- Advanced AWS Cloud Architecture, cloud infrastructure optimisation, and AI-powered data automation.
+
+### 💬 Ask me about
+- Project management, SQL and data modelling, stakeholder and vendor coordination, digital transformation, and public-sector technology implementations.
+
+### 🚀 What I'm passionate about
+- Leveraging technology and data to improve operational efficiency, build scalable solutions, and drive meaningful impact in digital education.
+
+### ⚡ Fun fact
+- I'm building my own company alongside my professional work in digital education transformation!
+
 
 
 ## 🌐 Socials:
